@@ -1,6 +1,6 @@
 # Bookstore
 
-### Restful API for bookstore in Java using Spring and H2.
+### RESTful API for bookstore in Java using Spring and H2.
 
 ## Features
 Basic CRUD for books with create, delete, read and update operations.
