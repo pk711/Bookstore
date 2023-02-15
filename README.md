@@ -20,7 +20,7 @@ Navigate to the root of the project via command line and execute the following:
 ```
 mvn spring-boot:run
 ```
-Alternatively, you can run it through your IDE.
+If successful, the app will run at http://localhost:8080/api/books
 
 
 *You can find a more in-depth guide on how to run a Maven project on Oracle's official website:* *https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/Maven_SE/Maven.html*.
