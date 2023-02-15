@@ -6,7 +6,7 @@
 Basic CRUD for books with create, delete, read and update operations.
 Read includes fetching a single book by ID or a list of books.
 
-### Tests completed using junit:
+### Testing:
 ![Screenshot_tests](https://user-images.githubusercontent.com/114118300/218967574-7937497e-bc7b-4343-ab51-4cedd5f9d599.png)
 
 ## Installation & Usage
